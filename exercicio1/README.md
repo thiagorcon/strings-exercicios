@@ -1,4 +1,5 @@
 # Exercício 1
+**Atenção:** para esse exercício você deve adicionar todas as soluções dentro da função **imprimirComidasFavoritas**.
 
 Faça um programa que pergunte ao usuário seu **nome** e suas **três comidas favoritas**. Em seguida, imprima no console a seguinte mensagem:
     
